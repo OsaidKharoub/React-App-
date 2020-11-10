@@ -1,0 +1,46 @@
+.socailmedia{
+height: auto;
+overflow: hidden;
+    .social{
+        width: 33.33%;
+        float: left;
+        padding: 100px 0 100px 60px;
+        box-sizing: border-box;
+        .icon{
+          font-size: 50px;
+          text-align: center;
+          background: #fff;
+          color: #888;
+          width: 50px;
+          padding: 10px;
+          float: left;
+          margin-right: 15px;
+          margin-top: 15px;
+        }
+            p{
+                font-size: 20px;
+                text-transform: uppercase;
+                font-weight: bold;
+                color: #fff;
+                float: left;
+                span{
+                    display: block;
+                    margin-bottom: 8px;
+                   
+                }
+                .info-2{
+                    font-weight: lighter;
+                }
+            }
+    }
+    .face{
+        background-color: #4267B2;
+    }
+       
+    .twitter{
+        background-color: #1DA1F2;
+    }
+    .pin{
+        background-color: #BD081C;
+    }
+}

@@ -1,0 +1,87 @@
+.profile-skills{
+    overflow: hidden;
+    background-color: #fff;
+    height: auto;
+
+
+    .profile{
+        width: 50%;
+        float: left;
+
+        .titel-profile{
+            font-size: 40px;
+            span{
+                font-weight: lighter;
+            }
+           }
+    .profile-list{
+        list-style: none;
+        padding: 0;
+        .website{
+            color: rgb(236, 60, 60);
+            font-weight: normal;
+        }
+        .profile-item{
+        margin-bottom: 8px;
+            span{
+                display: inline-block;
+                width: 100px;
+                font-weight: bold;
+                color: #000;
+                margin-left: 40px;
+            }
+        }
+    }  
+
+    }
+    .skills{
+        width: 50%;
+        float: left;
+
+       
+
+        .skills-titel{
+            font-size: 40px;
+            margin-bottom: 20px;
+            span{
+                font-weight: lighter;
+            }
+        }
+
+        .slills-dec{
+            margin-bottom: 25px;
+            margin-top: 0;
+            color: rgb(110, 105, 105);
+        }
+
+        .bar{
+            margin-bottom: 18px;
+            .titel{
+                display: inline-block;
+                width: 80%;
+            }
+            .parent{
+                margin-top: 5px;
+                
+               span{
+                   display: block;
+                   background-color: red;
+                   padding: .5px;
+               }
+
+               .sp1{
+                width: 100%;
+                }
+               .sp2{
+                width: 90%;
+                }
+               .sp3{
+               width: 80%;
+               }
+               
+            }
+         
+        }
+       
+    }
+}

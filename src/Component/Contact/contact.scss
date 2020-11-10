@@ -1,0 +1,49 @@
+.contact{
+    padding: 82px 0;
+    text-align: center;
+    background-color: #ebebe0;
+    min-height: 444px;
+    .contact-titel{
+
+    font-size: 60px;
+    margin-bottom: 30px;  
+      
+    }
+    form{
+        width: 70%;
+        margin: auto;
+        .form-input{
+            overflow: hidden;
+            input{
+                width: 49%;
+            }
+            .text{
+                float: left;
+            }
+            .email{
+                float: right;}
+        }
+        input{
+        outline:none;
+        box-sizing: border-box;
+        padding: 5px;
+        margin-bottom: 10px;
+
+        }
+        .sub{
+            width: 100%;
+        }
+        textarea{
+            width: 100%;
+            background-color: #ccc;
+            outline: none;
+            margin-bottom: 20px;
+        }
+        .submit{
+            width: 60%;
+            background-color: #fff;
+            color: #888;
+            border: 1px solid rgb(173, 173, 173); 
+        }
+    }
+}

@@ -1,0 +1,38 @@
+.navbar{
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    padding: 5px 0;
+    z-index: 99;
+    background-color: #fff;
+    border-bottom: 1px solid silver;
+    .logo{
+        width: 50%;
+        float: left;
+        .logo-text {
+            font-size: 30px;
+            font-weight: bold;
+        }
+    }
+    .ul-list {
+        padding: 0;
+        list-style: none;
+        float: left;
+        width: 50%;
+        margin-top: 30px;
+        .list-item{
+           float: left;
+           a{
+               text-decoration: none;
+               color: #222;
+               font-weight: bold;
+               padding: 10px 15px;
+           }
+           a:hover {
+               color: #eb5424;
+           }
+        }
+    }
+    
+   
+}

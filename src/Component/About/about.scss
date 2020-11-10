@@ -1,0 +1,23 @@
+.about{
+    .about-info{
+        width: 50%;
+        float: right;
+        .info-titel{
+            margin: 0;
+            margin-top: 80px;
+            font-size: 45px;
+            span{
+                font-weight: lighter;
+            }
+        }
+        .info-dir{
+            font-size: 35px;
+            color: #eb5424;
+            margin: 0;
+            margin-top: 20px;
+        }
+        .info-dec{
+            line-height: 30px;
+        }
+        }
+}

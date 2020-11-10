@@ -1,0 +1,53 @@
+.work{
+overflow: hidden;
+background-color: #fff;
+height: auto;
+padding: 50px 0 ;
+.titel-work{
+    font-size: 60px;
+    span{
+       font-weight: lighter;
+    }
+    
+}
+.part-1{
+    width: 29%;
+    height: 250px;
+    float: left;
+    border: 1px solid #555;
+    padding: 100px 0;
+    text-align: center;
+   
+
+   i{
+       color: #888;
+       margin-bottom: 20px;
+      
+   }
+    .part-titel{
+        color: #eb4525;
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+    hr{
+        width: 60%;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .part-decs{
+        color: #555;
+        font-size: 14px;
+        padding: 20px;
+    }
+
+}
+
+div:nth-child(3) {
+margin-left: 5%;
+}
+div:nth-child(4) {
+    margin-left: 5%;
+    }
+    
+
+}
