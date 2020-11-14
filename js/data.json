@@ -1,0 +1,123 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        },
+        {
+            "id" : 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile Ux",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "./../images/profile/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/profile/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/profile/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/profile/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/profile/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/profile/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/profile/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/profile/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook",
+            "class" :"social face"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter",
+            "class" :"social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest",
+            "class" :"social pin"
+        }
+    ],
+
+            "profile":
+                      [
+            {
+                "id" : 1,
+                "name" : "Osaid kharoub",
+                "birthday": "10/1/1997",
+                "address" : "habla",
+                "phone": "0592184466",
+                "email":"osaid_kh@gmail.com",
+                "website":"www.google.com"
+            }
+           ],
+               
+            "skills" : 
+            [
+   
+                {
+                    "id" : 1,
+                    "titel": "Bootstrap",
+                    "prec" : "100%",
+                    "spanclass":"sp1"
+
+                },
+                {
+                    "id" : 2,
+                    "titel": "Css3",
+                    "prec":"90%",
+                    "spanclass":"sp2"
+                },
+                {
+                    "id" : 3,
+                    "titel": "Photoshop",
+                    "prec":"80%",
+                    "spanclass":"sp3"
+                }
+            ]
+         
+   
+            
+          
+        
+    
+}
