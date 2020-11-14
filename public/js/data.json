@@ -23,7 +23,7 @@
     "portfolio" : [
         {
             "id":1,
-            "image": "/images/profile/portfolio-img1.jpg"
+            "image": "./../images/profile/portfolio-img1.jpg"
         },
         {
             "id":2,
